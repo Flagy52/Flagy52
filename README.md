@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flagy52 -
 - 👀 I’m interested in aviation -
-- 🌱 I’m currently learning Html, css, js, c++, react. node.js -
+- 🌱 I’m currently learning Html, css, js, c++, Vue, node.js -
 - 📫 How to reach me _flagy_ -
 - 😄 Pronouns: He/His -
 - ⚡ Fun fact: a320 fenix💞️ -
